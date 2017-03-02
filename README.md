@@ -1,7 +1,8 @@
 # SimulatorSandBox
 Quickly open the iOS simulator sandbox
 
-##### 再次更新,修复在某些系统版本无法启动问题,原因是强制解包😅
+##### 更新:
+- 修复之前的版本不显示`iPad`
 
 
 
